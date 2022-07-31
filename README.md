@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning:
   - [my Exercism profile](https://exercism.org/profiles/schapira)
+  - [The Odin project](https://www.theodinproject.com/)
 <!--
 **schapira/schapira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
