@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning:
   - [my Exercism profile](https://exercism.org/profiles/schapira)
   - [The Odin project](https://www.theodinproject.com/)
-  - [freeCodeCamp Timeline](https://www.freecodecamp.org/schapira) , and 
+  - [freeCodeCamp Timeline](https://www.freecodecamp.org/schapira)
 - 🔭 I’m currently working on 
   - [Translating freeCodeCamp courses content](https://freecodecamp.crowdin.com/)
 
